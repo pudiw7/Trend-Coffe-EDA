@@ -19,6 +19,6 @@ This notebook explores sales patterns based on:
 ## 📁 Files
 | File | Description |
 |------|--------------|
-| `coffee_sales_EDA.ipynb` | Main notebook containing all code and visualizations |
-| `coffee_sales.csv` | Dataset used for analysis |
+| `Trend Coffe EDA.ipynb` | Main notebook containing all code and visualizations |
+| `Coffee_sales(4).csv` | Dataset used for analysis |
 | `README.md` | Project overview and documentation |
